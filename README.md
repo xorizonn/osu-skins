@@ -1,3 +1,2 @@
-# osu-skins
-
-skins here
+#sonic youth
+!(malisz.png)
