@@ -14,4 +14,4 @@
 ![](yaong.png)
 
 ## [ietherial nowy](https://github.com/xorizonn/osu-skins/blob/main/ietherial%20nowy.osk)
-![](ietherial_nowy.png)
+![](ietherialnowy.png)
